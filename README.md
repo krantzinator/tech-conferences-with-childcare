@@ -23,8 +23,8 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 # Conference List
 
-### Conference name
-- [http://www.writespeakcode.com/](Write/Speak/Code Conference)
+### Write/Speak/Code Conference
+- [Write/Speak/Code Conference](http://www.writespeakcode.com/)
 - Childcare:
   - **Free**
   - **On-site**
