@@ -35,3 +35,13 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Recurring conference? **Annually**
 
 -----
+
+### AlterConf Austin, TX
+- [https://www.alterconf.com/conferences/austin-tx](https://www.alterconf.com/conferences/austin-tx)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Austin, TX, USA**
+- Date: **Sunday, August 26, 2017**
+- Recurring conference? **No**
