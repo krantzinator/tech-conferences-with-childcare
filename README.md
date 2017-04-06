@@ -14,7 +14,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
   - **Free/Paid**
   - **On-site/Stipend provided**
 - Attendee scholarship available? **Yes/No**
-- Location: **Location**
+- Location: **Location (include country if city varies)**
 - Date: **Date/Date Range (if recurring)**
 - Recurring conference? **[recurrence]/No**
 
