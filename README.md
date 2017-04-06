@@ -12,11 +12,13 @@ I'm sure I'll fine-tune this readme tomorrow, but in the meanwhile:
 
 ### Conference name
 - [link](here)
-- Childcare is free or paid? **Free/Paid**
-- Scholarship available? **Yes/No**
+- Childcare:
+  - **Free/Paid**
+  - **On-site/Stipend provided**
+- Attendee scholarship available? **Yes/No**
 - Location: **Location**
 - Date: **Date/Date Range (if recurring)**
-- Recurring conference? **Yes/No**
+- Recurring conference? **[recurrence]/No**
 
 -----
 
@@ -24,4 +26,14 @@ I'm sure I'll fine-tune this readme tomorrow, but in the meanwhile:
 # Conference List
 
 
-### Who will be first?
+### ElaConf
+- [elaconf.com](http://elaconf.com/)
+- Childcare:
+  - **Free**
+  - **Stipend provided**
+- Attendee scholarship available? **Yes**
+- Location: **Philadelphia, PA, USA**
+- Date: **November**
+- Recurring conference? **Annually**
+
+-----
