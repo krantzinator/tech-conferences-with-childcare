@@ -6,14 +6,22 @@ In the [CodeNewbie](http://www.codenewbie.org) Twitter chat tonight (4/5/2017), 
 
 I'm sure I'll fine-tune this readme tomorrow, but in the meanwhile:
 
-- PRs absolutely welcome to add to this (currently empty) list
-  - template included for editing the README
-- PRs also welcome to make the format better
-  - Need to decide a way to sort things. Location maybe?
+- Make a PR to add a conference to the list!
 
-Thanks!
+## Template
 
-## Conference List
+### Conference name
+- [link](here)
+- Childcare is free or paid? **Free/Paid**
+- Scholarship available? **Yes/No**
+- Location: **Location**
+- Date: **Date/Date Range (if recurring)**
+- Recurring conference? **Yes/No**
+
+-----
+
+
+# Conference List
 
 
 ### Who will be first?
