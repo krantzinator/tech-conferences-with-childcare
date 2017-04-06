@@ -2,11 +2,9 @@
 
 ## How it works
 
-In the [CodeNewbie](http://www.codenewbie.org) Twitter chat tonight (4/5/2017), several people mentioned lack of childcare as a barrier for their attendance at tech conferences. I thought a list like this should exist, so I'm making one real quick before I head to bed (can't snooze the kid-alarm!).
+In the [CodeNewbie](http://www.codenewbie.org) Twitter chat tonight (4/5/2017), several people mentioned lack of childcare as a barrier for their attendance at tech conferences. I thought a list like this should exist, so I made one.
 
-I'm sure I'll fine-tune this readme tomorrow, but in the meanwhile:
-
-- Make a PR to add a conference to the list!
+Make a PR to add a conference to the list! PRs also welcome to improve the template.
 
 ## Template
 
