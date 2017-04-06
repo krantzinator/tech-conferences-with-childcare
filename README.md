@@ -23,6 +23,17 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 # Conference List
 
+### Write/Speak/Code Conference
+- [Write/Speak/Code Conference](http://www.writespeakcode.com/)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Portland, OR, USA**
+- Date: **August 23-26, 2017**
+- Recurring conference? **Annually**
+
+-----
 
 ### ElaConf
 - [elaconf.com](http://elaconf.com/)
