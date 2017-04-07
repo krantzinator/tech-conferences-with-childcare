@@ -82,3 +82,12 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Recurring conference? **Annually**
 
 -----
+
+### RubyConf
+- [http://rubyconf.org/registration](http://rubyconf.org/registration)
+- Childcare:
+  - **Free**
+- Attendee scholarship available? **Yes**
+- Location: **varies, USA**
+- Date: **November**
+- Recurring conference? **Annuall**
