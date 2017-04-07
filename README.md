@@ -90,4 +90,6 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Attendee scholarship available? **Yes**
 - Location: **varies, USA**
 - Date: **November**
-- Recurring conference? **Annuall**
+- Recurring conference? **Annually**
+
+-----
