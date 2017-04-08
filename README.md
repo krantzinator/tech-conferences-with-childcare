@@ -14,7 +14,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
   - **Free/Paid**
   - **On-site/Stipend provided**
 - Attendee scholarship available? **Yes/No**
-- Location: **Location**
+- Location: **Location (include country if city varies)**
 - Date: **Date/Date Range (if recurring)**
 - Recurring conference? **[recurrence]/No**
 
@@ -77,8 +77,28 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
   - **Paid**, details have varied depending on the host
   - was available at the [2015](https://code4lib.org/conference/2015/) and [2016](http://2016.code4lib.org/childcare.html) conferences -- not sure about 2017
 - Attendee scholarship available? **Yes**
-- Location: **varies**
+- Location: **varies, USA**
 - Date: **February or March**
+
+### RailsConf
+- [https://railsconf.com/](https://railsconf.com/)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes** [https://railsconf.com/scholarships](https://railsconf.com/scholarships)
+- Location: **varies, USA**
+- Date: **April**
+- Recurring conference? **Annually**
+
+-----
+
+### RubyConf
+- [http://rubyconf.org/registration](http://rubyconf.org/registration)
+- Childcare:
+  - **Free**
+- Attendee scholarship available? **Yes**
+- Location: **varies, USA**
+- Date: **November**
 - Recurring conference? **Annually**
 
 -----
