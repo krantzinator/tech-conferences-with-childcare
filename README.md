@@ -71,6 +71,15 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### Code4Lib
+- [Code4Lib conference](https://code4lib.org/conference)
+- Childcare:
+  - **Paid**, details have varied depending on the host
+  - was available at the [2015](https://code4lib.org/conference/2015/) and [2016](http://2016.code4lib.org/childcare.html) conferences -- not sure about 2017
+- Attendee scholarship available? **Yes**
+- Location: **varies, USA**
+- Date: **February or March**
+
 ### RailsConf
 - [https://railsconf.com/](https://railsconf.com/)
 - Childcare:
