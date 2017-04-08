@@ -80,6 +80,8 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Location: **varies, USA**
 - Date: **February or March**
 
+-----
+
 ### RailsConf
 - [https://railsconf.com/](https://railsconf.com/)
 - Childcare:
