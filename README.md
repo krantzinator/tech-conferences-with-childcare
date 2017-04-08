@@ -104,3 +104,13 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Recurring conference? **Annually**
 
 -----
+
+### WWDC (Apple's Worldwide Developers Conference)
+- [https://developer.apple.com/wwdc/](https://developer.apple.com/wwdc/)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **San Jose, CA, USA**
+- Date: **June 5-9, 2017**
+- Recurring conference? **Annual**
