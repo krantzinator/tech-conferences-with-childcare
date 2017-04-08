@@ -70,3 +70,26 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Recurring conference? **Yes**
 
 -----
+
+### RailsConf
+- [https://railsconf.com/](https://railsconf.com/)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes** [https://railsconf.com/scholarships](https://railsconf.com/scholarships)
+- Location: **varies, USA**
+- Date: **April**
+- Recurring conference? **Annually**
+
+-----
+
+### RubyConf
+- [http://rubyconf.org/registration](http://rubyconf.org/registration)
+- Childcare:
+  - **Free**
+- Attendee scholarship available? **Yes**
+- Location: **varies, USA**
+- Date: **November**
+- Recurring conference? **Annually**
+
+-----
