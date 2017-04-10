@@ -114,3 +114,14 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Location: **San Jose, CA, USA**
 - Date: **June 5-9, 2017**
 - Recurring conference? **Annual**
+
+-----
+
+### Node Interactive
+- [http://events.linuxfoundation.org/events/node-interactive](http://events.linuxfoundation.org/events/node-interactive)
+- Childcare:
+  - **Free**
+- Attendee scholarship available? **Yes**
+- Location: **Vancouver, BC, Canada**
+- Date: **October 4-6, 2017**
+- Recurring conference? **Annual**
