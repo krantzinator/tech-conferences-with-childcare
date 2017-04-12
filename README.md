@@ -139,3 +139,15 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Recurring conference? **Annual**
 
 -----
+
+### Abstractions
+- [http://abstractions.io/](http://abstractions.io/)
+- Childcare:
+  - **Paid**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Pittsburgh, PA, USA**
+- Date: **Date/Date Range (if recurring) ?? **
+- Recurring conference? **No  ??**
+
+-----
