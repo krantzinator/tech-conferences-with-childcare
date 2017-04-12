@@ -125,3 +125,17 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Location: **Vancouver, BC, Canada**
 - Date: **October 4-6, 2017**
 - Recurring conference? **Annual**
+
+-----
+
+### PyCon
+- [PyCon Childcare](https://us.pycon.org/2017/childcare/)
+- Childcare:
+  - **Paid, cost subsidized by PSF**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Varies, USA**
+- Date: **end of May**
+- Recurring conference? **Annual**
+
+-----
