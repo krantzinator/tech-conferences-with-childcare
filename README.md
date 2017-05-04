@@ -151,3 +151,68 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Recurring conference? **Biennial**
 
 -----
+
+
+### Rootconf - India's Principal Conference on DevOps and Monitoring
+- [https://rootconf.in/](rootconf.in)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes, Diversity Grants**
+- Location: **Bangalore, India**
+- Date: **May 11-12 **
+- Recurring conference? **Yearly**
+
+-----
+
+
+### The Fifth Elephant - India's Largest Data Science Conference
+- [https://fifthelephant.in](https://fifthelephant.in)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes, Diversity Grants**
+- Location: **Bangalore, India**
+- Date: **Jul 27-28 **
+- Recurring conference? **Yearly**
+
+-----
+
+
+### 50p - The Payments Landscape in India
+- [https://50p.in](https://50p.in)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes, Diversity Grants**
+- Location: **Bangalore, India**
+- Date: **Jan 24-25 **
+- Recurring conference? **Yearly**
+
+-----
+
+
+### Kilter - Health, Nutrition and Habits
+- [https://fifthelephant.in](https://fifthelephant.in)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes, Diversity Grants**
+- Location: **Bangalore, India**
+- Date: **Jul 27-28 **
+- Recurring conference? **Yearly**
+
+-----
+
+
+### JSFoo - Conference and Workshops on JavaScript
+- [https://jsfoo.in](https://jsfoo.in)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes, Diversity Grants**
+- Location: **Bangalore, India**
+- Date: **Sep 15-16 **
+- Recurring conference? **Yearly**
+
+-----
