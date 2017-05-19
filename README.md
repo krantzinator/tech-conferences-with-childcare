@@ -193,7 +193,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 
 ### Kilter - Health, Nutrition and Habits
-- [https://fifthelephant.in](https://fifthelephant.in)
+- [https://kilter.in](https://kilter.in)
 - Childcare:
   - **Free**
   - **On-site**
