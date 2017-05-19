@@ -23,6 +23,8 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 # Conference List
 
+## United States
+
 ### Write/Speak/Code Conference
 - [Write/Speak/Code Conference](http://www.writespeakcode.com/)
 - Childcare:
@@ -117,17 +119,6 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
-### Node Interactive
-- [http://events.linuxfoundation.org/events/node-interactive](http://events.linuxfoundation.org/events/node-interactive)
-- Childcare:
-  - **Free**
-- Attendee scholarship available? **Yes**
-- Location: **Vancouver, BC, Canada**
-- Date: **October 4-6, 2017**
-- Recurring conference? **Annual**
-
------
-
 ### PyCon
 - [PyCon Childcare](https://us.pycon.org/2017/childcare/)
 - Childcare:
@@ -152,6 +143,20 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+## Canada
+
+### Node Interactive
+- [http://events.linuxfoundation.org/events/node-interactive](http://events.linuxfoundation.org/events/node-interactive)
+- Childcare:
+  - **Free**
+- Attendee scholarship available? **Yes**
+- Location: **Vancouver, BC, Canada**
+- Date: **October 4-6, 2017**
+- Recurring conference? **Annual**
+
+-----
+
+## India
 
 ### Rootconf - India's Principal Conference on DevOps and Monitoring
 - [https://rootconf.in/](rootconf.in)
