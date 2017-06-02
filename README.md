@@ -25,6 +25,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 ## United States
 
+### DjangoCon US
+- [DjangoCon US](https://2017.djangocon.us/)
+- Childcare:
+  - **Free**
+  - **[See site for details](https://2017.djangocon.us/news/child-care-needs/)**
+- Attendee scholarship available? **Yes**
+- Location: **Varies, United States**
+- Date: **August**
+- Recurring conference? **Yearly**
+
+-----
+
 ### Write/Speak/Code Conference
 - [Write/Speak/Code Conference](http://www.writespeakcode.com/)
 - Childcare:
