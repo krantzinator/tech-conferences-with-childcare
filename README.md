@@ -155,6 +155,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### Grace Hopper Celebration of Women in Computing
+- [Grace Hopper Celebration of Women in Computing](https://ghc.anitaborg.org/)
+- Childcare:
+  - **Free**
+  - **[See site for details](https://ghc.anitaborg.org/2017-faq/)**
+- Attendee scholarship available? **Yes**
+- Location: **Orlando, FL, USA**
+- Date: **Varies**
+- Recurring conference? **Yes**
+
+-----
+
 ## Canada
 
 ### Node Interactive
