@@ -49,6 +49,19 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### LambdaConf
+- [lambdaconf.us](http://lambdaconf.us)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes** (Volunteer opportunities also available)
+- Location: **Boulder, CO, USA**
+- Date: **June 3-5, 2018** (Paid commercial training + Free Mini-Conf(s) preceeding)
+- Recurring conference? **Annually**
+
+-----
+
+
 ### ElaConf
 - [elaconf.com](http://elaconf.com/)
 - Childcare:
