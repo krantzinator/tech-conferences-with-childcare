@@ -180,6 +180,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### Google I/O
+- [https://events.google.com/io](https://events.google.com/io)
+- Childcare:
+  - **Up to $300 reimbursement**
+  - **[See site for details](https://events.google.com/io/faq/#youth-attendance)**
+- Attendee scholarship available? **Yes**
+- Location: **Mountain View, CA, USA**
+- Date: **Varies**
+- Recurring conference? **Yes**
+
+-----
+
 ## Canada
 
 ### Node Interactive
