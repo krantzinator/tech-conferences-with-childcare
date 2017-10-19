@@ -258,3 +258,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Recurring conference? **Yearly**
 
 -----
+
+## Netherlands
+
+### Domain-Driven Design Europe
+- [https://dddeurope.com](https://dddeurope.com)
+- Childcare:
+  - **Paid, €10 registration**
+  - **On-site**
+  - **Email [contact@dddeurope.com](mailto:contact@dddeurope.com) for details**
+- Attendee scholarship available? **No program, but reach out w/ inquiries**
+- Location: **Amsterdam, Netherlands**
+- Date: **Jan 30-Feb 2**
+- Recurring conference? **Yes**
+
+-----
