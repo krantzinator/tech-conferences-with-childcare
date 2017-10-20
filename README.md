@@ -192,6 +192,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### MongoDB World
+- [https://www.mongodb.com/world17](https://www.mongodb.com/world17)
+- Childcare:
+  - **Paid, cost subsidized by [MongoDB](https://www.mongodb.com)**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Varies, USA**
+- Date: **Varies**
+- Recurring conference? **Yes**
+
+-----
+
 ## Canada
 
 ### Node Interactive
