@@ -86,6 +86,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### Rust Belt Rust
+- [https://rust-belt-rust.com/](https://rust-belt-rust.com/)
+- Childcare:
+  - **Free**
+  - **Stipend provided for childcare at hotel**
+- Attendee scholarship available? **No**
+- Location: **varies - Rust Belt Cities, OH, USA**
+- Date: **late October**
+- Recurring conference? **Annually**
+
+-----
+
 ### Dockercon
 - [http://2017.dockercon.com/childcare/](http://2017.dockercon.com/childcare/)
 - Childcare:
