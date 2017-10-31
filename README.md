@@ -20,6 +20,14 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+# Table of Contents
+
+- [United States](#united-states)
+- [Canada](#canada)
+- [India](#india)
+- [Europe](#europe)
+
+-----
 
 # Conference List
   
