@@ -22,7 +22,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 
 # Conference List
-
+  
 ## United States
 
 ### DjangoCon US
@@ -306,6 +306,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Attendee scholarship available? **Unknown**
 - Location: **Europe**
 - Date: **early Fall (Sept/Oct)**
+- Recurring conference? **Annually**
+
+-----
+
+### MozFest
+- [https://mozillafestival.org/](https://mozillafestival.org/)
+- Childcare:
+  - **Free for Speakers/session leaders**
+  - _space is limited so contact to book a slot_
+- Attendee scholarship available? **Unknown**
+- Location: **Ravensbourne College, Greenwich, London**
+- Date: **mid-fall (October)**
 - Recurring conference? **Annually**
 
 -----
