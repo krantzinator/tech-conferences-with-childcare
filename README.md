@@ -6,6 +6,12 @@ In the [CodeNewbie](http://www.codenewbie.org) Twitter chat tonight (4/5/2017), 
 
 Make a PR to add a conference to the list! PRs also welcome to improve the template.
 
+**Instructions**
+- use the below template
+- place your conference name under the corresponding country/continent
+- sort it alphabetically within that sublist
+- PR!
+
 ## Template
 
 ### Conference name
