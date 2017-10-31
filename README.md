@@ -283,7 +283,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
-## Netherlands
+## Europe
 
 ### Domain-Driven Design Europe
 - [https://dddeurope.com](https://dddeurope.com)
@@ -295,5 +295,17 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Location: **Amsterdam, Netherlands**
 - Date: **Jan 30-Feb 2**
 - Recurring conference? **Yes**
+
+-----
+
+### LibreOffice Conference
+- [LibC](https://conference.libreoffice.org/)
+- Childcare:
+  - **will be provided if needed (per their [conference wiki](https://wiki.documentfoundation.org/Marketing/ConferenceKit#Child_care))**
+  - _opt-in for childcare part of registration_
+- Attendee scholarship available? **Unknown**
+- Location: **Europe**
+- Date: **early Fall (Sept/Oct)**
+- Recurring conference? **Annually**
 
 -----
