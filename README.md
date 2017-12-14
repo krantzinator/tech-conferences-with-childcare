@@ -239,7 +239,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
   - **On-site**
 - Attendee scholarship available? **Yes, Diversity Grants**
 - Location: **Bangalore, India**
-- Date: **Jan 24-25**
+- Date: **Feb 8-9, 2018**
 - Recurring conference? **Yearly**
 
 -----
