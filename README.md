@@ -146,6 +146,19 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### ng-conf
+- [https://www.ng-conf.org/](https://www.ng-conf.org/)
+- Childcare:
+  - **Paid** ng-daycare: $25/day - "Childcare will be available from 9:00 am - 5:30 pm and is provided at the Grand America Hotel." 
+  - **Paid** ng-kids track: $200 - "Bring your 1st-8th grade child(ren) to our fun and educational program on Wednesday, Thursday and Friday from 8 am - 5 pm."
+  - **On-site**
+- Attendee scholarship available? _Unknown_
+- Location: **Salt Lake City, UT, USA**
+- Date: **April 18-20, 2018**
+- Recurring conference? **Annually**
+
+-----
+
 ### PyCon
 - [PyCon Childcare](https://us.pycon.org/2017/childcare/)
 - Childcare:
