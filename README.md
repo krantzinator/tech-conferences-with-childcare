@@ -276,7 +276,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
   - **On-site**
 - Attendee scholarship available? **Yes, Diversity Grants**
 - Location: **Bangalore, India**
-- Date: **Jul 27-28**
+- Date: **Postponed**
 - Recurring conference? **Yearly**
 
 -----
