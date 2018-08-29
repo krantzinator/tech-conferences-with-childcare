@@ -32,6 +32,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - [Canada](#canada)
 - [India](#india)
 - [Europe](#europe)
+- [Australia](#australia)
 
 -----
 
@@ -340,6 +341,34 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Attendee scholarship available? **Unknown**
 - Location: **Ravensbourne College, Greenwich, London**
 - Date: **mid-fall (October)**
+- Recurring conference? **Annually**
+
+-----
+
+## Australia
+
+### linux.conf.au
+- <https://linux.conf.au>
+- Childcare:
+  - **Free** (for children of conference attendees)
+- Location: **Varies** (normally in Australia, sometimes in New Zealand)
+- Date: **January**
+- Recurring conference? **Annually**
+
+-----
+
+### PyCon Australia
+- <http://pycon-au.org>
+- Childcare:
+  - **Paid** (2018: AUD 30 per child, per day)
+  - Must be purchased along with conference ticket, child care
+    sign-ups close simultaneously with ticket sales (about one week
+    prior to conference).
+- Attendee scholarship available? **Yes** (“If that cost is
+  problematic for you let us know and we can work something out,”
+  [from the 2018 conference web site](https://2018.pycon-au.org/news/on-site-child-care/))
+- Location: **Varies** (2018 and 2019: Sydney)
+- Date: **August**
 - Recurring conference? **Annually**
 
 -----
