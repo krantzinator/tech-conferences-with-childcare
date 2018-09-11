@@ -265,7 +265,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
   - **On-site**
 - Attendee scholarship available? **Yes, Diversity Grants**
 - Location: **Bangalore, India**
-- Date: **Sep 15-16**
+- Date: **Oct 26-27**
 - Recurring conference? **Yearly**
 
 -----
@@ -302,6 +302,19 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Attendee scholarship available? **Yes, Diversity Grants**
 - Location: **Bangalore, India**
 - Date: **Jul 27-28**
+- Recurring conference? **Yearly**
+
+-----
+
+
+### Meta Refresh
+- [https://metarefresh.in](https://metarefresh.in)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes, Diversity Grants**
+- Location: **Bangalore, India**
+- Date: **Oct 26-27**
 - Recurring conference? **Yearly**
 
 -----
