@@ -185,7 +185,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 -----
 
 ### RubyConf
-- [http://rubyconf.org/registration](http://rubyconf.org/registration)
+- [http://rubyconf.org/](http://rubyconf.org/)
 - Childcare:
   - **Free**
 - Attendee scholarship available? **Yes**
