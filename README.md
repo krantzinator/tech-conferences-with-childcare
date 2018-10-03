@@ -334,6 +334,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### Embedded Linux Conference Europe
+- [Embedded Linux Conference Europe](https://events.linuxfoundation.org/events/elc-openiot-europe-2018/)
+- Childcare:
+  - **Sign up for childcare via [form](https://events.linuxfoundation.org/events/elc-openiot-europe-2018/attend/childcare/)**
+  - **Email [events@linuxfoundation.org](mailto:events@linuxfoundation.org) for details**
+- Attendee scholarship available? **Yes, see [details](https://events.linuxfoundation.org/events/elc-openiot-europe-2018/attend/scholarship-opportunities/)**
+- Location: **Edinburgh, UK**
+- Date: **October 22-24**
+- Recurring conference? **Yes**
+
+-----
+
 ### LibreOffice Conference
 - [LibC](https://conference.libreoffice.org/)
 - Childcare:
