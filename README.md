@@ -37,7 +37,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 -----
 
 # Conference List
-  
+
 ## United States
 
 ### Abstractions
@@ -99,6 +99,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
+### EmberConf
+- [EmberConf](http://www.emberconf.com)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Portland, OR, USA**
+- Date: **March**
+- Recurring conference? **Annually**
+
+-----
+
 ### Google I/O
 - [https://events.google.com/io](https://events.google.com/io)
 - Childcare:
@@ -150,7 +162,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 ### ng-conf
 - [https://www.ng-conf.org/](https://www.ng-conf.org/)
 - Childcare:
-  - **Paid** ng-daycare: $25/day - "Childcare will be available from 9:00 am - 5:30 pm and is provided at the Grand America Hotel." 
+  - **Paid** ng-daycare: $25/day - "Childcare will be available from 9:00 am - 5:30 pm and is provided at the Grand America Hotel."
   - **Paid** ng-kids track: $200 - "Bring your 1st-8th grade child(ren) to our fun and educational program on Wednesday, Thursday and Friday from 8 am - 5 pm."
   - **On-site**
 - Attendee scholarship available? _Unknown_
@@ -191,6 +203,18 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 - Attendee scholarship available? **Yes**
 - Location: **varies, USA**
 - Date: **November**
+- Recurring conference? **Annually**
+
+-----
+
+### EmberConf
+- [RustConf](http://www.rustconf.com)
+- Childcare:
+  - **Free**
+  - **On-site**
+- Attendee scholarship available? **Yes**
+- Location: **Portland, OR, USA**
+- Date: **August**
 - Recurring conference? **Annually**
 
 -----
