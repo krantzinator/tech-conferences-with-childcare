@@ -207,7 +207,7 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 -----
 
-### EmberConf
+### RustConf
 - [RustConf](http://www.rustconf.com)
 - Childcare:
   - **Free**
