@@ -270,75 +270,38 @@ Make a PR to add a conference to the list! PRs also welcome to improve the templ
 
 ## India
 
-### 50p - The Payments Landscape in India
-- [https://50p.in](https://50p.in)
-- Childcare:
-  - **Free**
-  - **On-site**
-- Attendee scholarship available? **Yes, Diversity Grants**
-- Location: **Bangalore, India**
-- Date: **Feb 8-9, 2018**
-- Recurring conference? **Yearly**
-
------
-
 ### JSFoo - Conference and Workshops on JavaScript
-- [https://jsfoo.in](https://jsfoo.in)
+- [https://hasgeek.com/jsfoo/2019](https://hasgeek.com/jsfoo/2019)
 - Childcare:
   - **Free**
   - **On-site**
-- Attendee scholarship available? **Yes, Diversity Grants**
+- Attendee scholarship available? **No**
 - Location: **Bangalore, India**
-- Date: **Oct 26-27**
-- Recurring conference? **Yearly**
-
------
-
-### Kilter - Health, Nutrition and Habits
-- [https://kilter.in](https://kilter.in)
-- Childcare:
-  - **Free**
-  - **On-site**
-- Attendee scholarship available? **Yes, Diversity Grants**
-- Location: **Bangalore, India**
-- Date: **Postponed**
+- Date: **Sep 27-28**
 - Recurring conference? **Yearly**
 
 -----
 
 ### Rootconf - India's Principal Conference on DevOps and Monitoring
-- [https://rootconf.in/](https://rootconf.in/)
+- [https://hasgeek.com/rootconf/2019](https://hasgeek.com/rootconf/2019)
 - Childcare:
   - **Free**
   - **On-site**
-- Attendee scholarship available? **Yes, Diversity Grants**
+- Attendee scholarship available? **No**
 - Location: **Bangalore, India**
-- Date: **May 11-12**
+- Date: **June 21-22**
 - Recurring conference? **Yearly**
 
 -----
 
 ### The Fifth Elephant - India's Largest Data Science Conference
-- [https://fifthelephant.in](https://fifthelephant.in)
+- [https://hasgeek.com/fifthelephant/2019](https://hasgeek.com/fifthelephant/2019)
 - Childcare:
   - **Free**
   - **On-site**
-- Attendee scholarship available? **Yes, Diversity Grants**
+- Attendee scholarship available? **No**
 - Location: **Bangalore, India**
-- Date: **Jul 27-28**
-- Recurring conference? **Yearly**
-
------
-
-
-### Meta Refresh
-- [https://metarefresh.in](https://metarefresh.in)
-- Childcare:
-  - **Free**
-  - **On-site**
-- Attendee scholarship available? **Yes, Diversity Grants**
-- Location: **Bangalore, India**
-- Date: **Oct 26-27**
+- Date: **Jul 25-26**
 - Recurring conference? **Yearly**
 
 -----
